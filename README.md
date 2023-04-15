@@ -29,4 +29,4 @@ This is the result for Avatar movie and here is the result for the famous movie 
 By scrolling on this window, you can find review for a lot of films linked to the movie the user is looking for.
 
 I ended the project here without navigating to another window with the details of each movie when pressing one of them.
-I could have done more but I wanted to build a copy of instagram mobile app in React Native that I hope you'll be checking :) 
+I could have done more but I wanted to build my own social media mobile app in React Native that I hope you'll be checking :) 
